@@ -21,9 +21,8 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 - Expertly use Node.js/Express/Koa/Egg to build backend services
 - Expertly use TypeScript & Webpack
 - Expertly use Flutter to develop Apps
-
-#### :computer: Programming languages and tools: 
 <br />
+#### :computer: Programming languages and tools: 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" />
 
