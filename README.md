@@ -12,17 +12,19 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 <img align="right" alt="img" src="https://cdn.nlark.com/yuque/0/2021/jpeg/2530026/1618329380066-69515018-0ed5-40f9-a653-c1c15381a7ca.jpeg?x-oss-process=image%2Fresize%2Cw_750%2Climit_0" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- HTML/HTML5 & CSS/CSS3 - build web/app pages
-- React / Vue - develop web frontend projects
-- Node.js - build web server services
+- Proficient with HTML/HTML5 & CSS/CSS3 to build web/app pages
+- Proficient with React / Vue to develop web frontend projects
+- Proficient with Node.js/Express/Koa/Egg to build backend services
+- Proficient with Javascript & TypeScript & Webpack
+- Proficient with Flutter to develop mobile Apps
 
 <br />
 
 #### :muscle: Things I am challenging myself with:
 - Deep in React/Vue/Express/Koa source codes
-- Expertly use Node.js/Express/Koa/Egg to build backend services
-- Expertly use TypeScript & Webpack
-- Expertly use Flutter to develop Apps
+- Deep in Node.js/Express/Koa/Egg to build backend services
+- Deep in TypeScript & Webpack
+- Deep in Flutter to develop Apps
 
 <br />
 
