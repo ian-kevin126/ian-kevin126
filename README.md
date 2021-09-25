@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋 This is ian-kevin!
 <!-- <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" alt="sudnyeshtalekar" /> 
 </p> -->
-
-### This is ian-kevin!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ian-kevin126)
 <!-- 设置社交账号 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/) -->
