@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" alt="sudnyeshtalekar" /> 
 </p> -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ian-kevin126)
+<!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ian-kevin126) -->
 <!-- 设置社交账号 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/) -->
 <!-- 设置邮箱 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com) -->
 
@@ -23,6 +23,7 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
+<br/>
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" />
 
