@@ -18,13 +18,11 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 - Proficient with Javascript & TypeScript & Webpack
 - Proficient with Flutter to develop mobile Apps
 
-<br />
-
 #### :muscle: Things I am challenging myself with:
 - Deep in React/Vue/Express/Koa source codes
 - Deep in Node.js/Express/Koa/Egg to build backend services
-- Deep in TypeScript & Webpack
-- Deep in Flutter to develop Apps
+- Deep in Javascript & TypeScript & Webpack
+- Deep in Flutter to develop mobile Apps
 
 <br />
 
