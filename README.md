@@ -4,22 +4,15 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=github_dark" alt="sudnyeshtalekar" /> 
 </p>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ian-kevin126&repo=JavaScript-Knowledges)](https://github.com/ian-kevin126/JavaScript-Knowledges) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-kevin126&layout=compact)](https://github.com/ian-kevin126/ian-kevin126) -->
-
-<!-- 参考连接 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#%E4%B8%BB%E9%A2%98 -->
 ### This is ian-kevin!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ian-kevin126)
 <!-- 设置社交账号 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/) -->
 <!-- 设置邮箱 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com) -->
 
-
 Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-engineer! Sincerely expecting to communicate and cooperate with you. 
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
@@ -34,9 +27,7 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -67,4 +58,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- 热门项目快捷入口 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ian-kevin126&repo=JavaScript-Knowledges)](https://github.com/ian-kevin126/JavaScript-Knowledges) -->
+
+<!-- 常用编程语言 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-kevin126&layout=compact)](https://github.com/ian-kevin126/ian-kevin126) -->
+
+<!-- 参考连接：
+- https://zj-git-guide.readthedocs.io/zh_CN/latest/platform/%5BGithub%5D%E4%B8%BB%E9%A1%B5%E7%BE%8E%E5%8C%96/
+- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#%E4%B8%BB%E9%A2%98 
+- https://github.com/kautukkundan/Awesome-Profile-README-templates/tree/master/elaborate
+- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
+- https://github.com/rahuldkjain/github-profile-readme-generator
 -->
