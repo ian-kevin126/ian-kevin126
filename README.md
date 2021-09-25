@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ian-kevin126's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-kevin126)](https://github.com/ian-kevin126/github-readme-stats)
+[![ian-kevin126's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-kevin126&show_icons=true&theme=radical)](https://github.com/ian-kevin126/github-readme-stats)
 
 
 <!--
