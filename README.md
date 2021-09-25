@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ian-kevin126&repo=JavaScript-Knowledges)](https://github.com/ian-kevin126/JavaScript-Knowledges)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-kevin126&layout=compact)](https://github.com/ian-kevin126/ian-kevin126)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-kevin126&layout=compact)](https://github.com/ian-kevin126/ian-kevin126) -->
 
 <!-- 参考连接 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#%E4%B8%BB%E9%A2%98 -->
 ### This is ian-kevin!
