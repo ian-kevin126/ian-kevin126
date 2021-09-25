@@ -16,6 +16,8 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 - React / Vue - develop web frontend projects
 - Node.js - build web server services
 
+<br /><br />
+
 #### :muscle: Things I am challenging myself with:
 - Deep in React/Vue/Express/Koa source codes
 - Expertly use Node.js/Express/Koa/Egg to build backend services
