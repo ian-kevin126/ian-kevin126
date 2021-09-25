@@ -1,5 +1,4 @@
 ### Hi there 👋
-background-image: linear-gradient( 135deg, #FD6585 10%, #0D25B9 100%);
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" alt="sudnyeshtalekar" /> 
 </p>
@@ -12,7 +11,7 @@ background-image: linear-gradient( 135deg, #FD6585 10%, #0D25B9 100%);
 
 Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-engineer! Sincerely expecting to communicate and cooperate with you. 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://cdn.nlark.com/yuque/0/2021/jpeg/2530026/1618329380066-69515018-0ed5-40f9-a653-c1c15381a7ca.jpeg?x-oss-process=image%2Fresize%2Cw_750%2Climit_0" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
