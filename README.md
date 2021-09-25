@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=littleTreeme&
-hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/ian-kevin126/github-readme-stats)
+hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ian-kevin126/ian-kevin126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
