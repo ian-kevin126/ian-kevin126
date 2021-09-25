@@ -16,7 +16,7 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 - React / Vue - develop web frontend projects
 - Node.js - build web server services
 
-<br /><br />
+<br />
 
 #### :muscle: Things I am challenging myself with:
 - Deep in React/Vue/Express/Koa source codes
@@ -24,8 +24,9 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 - Expertly use TypeScript & Webpack
 - Expertly use Flutter to develop Apps
 
-### 💻 Programming languages and tools:
 <br />
+
+### 💻 Programming languages and tools:
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" />
 
