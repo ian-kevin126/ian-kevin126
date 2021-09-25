@@ -1,7 +1,7 @@
 ### Hi there 👋
 background-image: linear-gradient( 135deg, #FD6585 10%, #0D25B9 100%);
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=github_dark&bg_color=135, #FD6585, #0D25B9" alt="sudnyeshtalekar" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" alt="sudnyeshtalekar" /> 
 </p>
 
 ### This is ian-kevin!
@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 <!-- 常用编程语言 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-kevin126&layout=compact)](https://github.com/ian-kevin126/ian-kevin126) -->
 
 <!-- 参考连接：
+- https://www.yousazoe.top/archives/d7f21a0b.html
 - https://zhuanlan.zhihu.com/p/373675893
 - https://zj-git-guide.readthedocs.io/zh_CN/latest/platform/%5BGithub%5D%E4%B8%BB%E9%A1%B5%E7%BE%8E%E5%8C%96/
 - https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#%E4%B8%BB%E9%A2%98 
