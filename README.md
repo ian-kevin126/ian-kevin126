@@ -1,7 +1,7 @@
 ### Hi there 👋
 background-image: linear-gradient( 135deg, #FD6585 10%, #0D25B9 100%);
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=github_dark&bg_color=135deg, #FD6585 10%, #0D25B9 100%" alt="sudnyeshtalekar" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=github_dark&bg_color=135, #FD6585, #0D25B9" alt="sudnyeshtalekar" /> 
 </p>
 
 ### This is ian-kevin!
