@@ -1,7 +1,7 @@
 ### Hi there 👋
-<br />
+<!-- <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" alt="sudnyeshtalekar" /> 
-</p>
+</p> -->
 
 ### This is ian-kevin!
 
