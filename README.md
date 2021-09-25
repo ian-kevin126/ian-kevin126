@@ -4,6 +4,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ian-kevin126&repo=JavaScript-Knowledges)](https://github.com/ian-kevin126/JavaScript-Knowledges)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-kevin126&layout=compact)](https://github.com/ian-kevin126/ian-kevin126)
+
 
 <!--
 **ian-kevin126/ian-kevin126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
