@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![ian-kevin126's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ian-kevin126/github-readme-stats)
+[![ian-kevin126's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ian-kevin126/ian-kevin126)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ian-kevin126&repo=ian-kevin126)](https://github.com/ian-kevin126/ian-kevin126)
 
 
 <!--
