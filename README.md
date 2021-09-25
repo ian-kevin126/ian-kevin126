@@ -12,15 +12,17 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 <img align="right" alt="img" src="https://cdn.nlark.com/yuque/0/2021/jpeg/2530026/1618329380066-69515018-0ed5-40f9-a653-c1c15381a7ca.jpeg?x-oss-process=image%2Fresize%2Cw_750%2Climit_0" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+<br/>
+- HTML/HTML5 & CSS/CSS3 - build web/app page.
+- React / Vue - develop web frontend project.  
+- Node.js - build web server service.
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+<br/>
+- Deep in React/Vue/Express/Koa source code.
+- Expertly use Node.js/Express/Koa/Egg to build backend service.
+- Expertly use TypeScript & Webpack.
+- Expertly use Flutter to develop App.
 
 #### :computer: Programming languages and tools: 
 <br/>
