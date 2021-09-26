@@ -29,7 +29,7 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ian-kevin126&count_private=true&show_icons=true&theme=tokyonight" />
-### 💻 Programming languages and tools:
+<h3>💻 Programming languages and tools:</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
