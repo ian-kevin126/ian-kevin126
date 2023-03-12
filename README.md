@@ -15,13 +15,13 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 #### 🌱 Things I am currently working on: 
 - Proficient with HTML/HTML5 & CSS/CSS3 to build web/app pages
 - Proficient with React / Vue to develop web frontend projects
-- Proficient with Node.js/Express/Koa/Egg to build backend services
+- Proficient with Go / Node.js / Express /Koa / Egg to build backend services
 - Proficient with Javascript & TypeScript & Webpack
 - Proficient with Flutter to develop mobile Apps
 
 #### :muscle: Things I am challenging myself with:
-- Deep in React/Vue/Express/Koa source codes
-- Deep in Node.js/Express/Koa/Egg to build backend services
+- Deep in React / Vue / Express / Koa source codes
+- Deep in Go / Node.js / Express / Koa / Egg to build backend services
 - Deep in Javascript & TypeScript & Webpack
 - Deep in Flutter to develop mobile Apps
 </br>
