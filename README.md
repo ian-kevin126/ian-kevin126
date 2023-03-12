@@ -13,7 +13,7 @@ Welcome to my Github page! I am ian-kevin and I am lifelong learning full-stack-
 <img align="right" alt="img" src="https://cdn.nlark.com/yuque/0/2021/jpeg/2530026/1618329380066-69515018-0ed5-40f9-a653-c1c15381a7ca.jpeg?x-oss-process=image%2Fresize%2Cw_750%2Climit_0" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Proficient with HTML/HTML5 & CSS/CSS3 to build web/app pages
+- Proficient with HTML & CSS to build web/mobile pages
 - Proficient with React / Vue to develop web frontend projects
 - Proficient with Go / Node.js / Express /Koa / Egg to build backend services
 - Proficient with Javascript & TypeScript & Webpack
